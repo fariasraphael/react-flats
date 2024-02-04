@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
-import Flat from './flat.jsx';
-
+import FlatList from './flat_list.jsx';
+import Map from './map.jsx'
 class App extends Component {
 	render() {
 		return(

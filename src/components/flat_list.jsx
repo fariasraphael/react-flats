@@ -1,13 +1,13 @@
 import React, { Component } from 'react'
 
-class Map extends Component {
+class FlatList extends Component {
 	render(){
 		return(
-			<div className="col-sm-5">
+			<div className="col-sm-7">
 				TODO
 			</div>
 		);
 	}
 }
 
-export default Map;
+export default FlatList;
