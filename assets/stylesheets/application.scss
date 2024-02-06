@@ -37,15 +37,16 @@ body {
   }
 }
 
-.flat {
-  flex: 50% 0 0;
-  cursor: pointer;
-  border: 6px solid transparent;
-}
+
 
 .marker {
   height: 20px;
   width: 20px;
   background-color: red;
   border-radius: 50%;
+}
+
+.flat-list {
+  display: flex;
+  flex-warp: warp;
 }
