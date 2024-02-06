@@ -4,7 +4,7 @@ class Map extends Component {
 	render(){
 		return(
 			<div className="col-sm-5">
-				TODO
+				TODO 32:13
 			</div>
 		);
 	}
