@@ -50,3 +50,7 @@ body {
   display: flex;
   flex-warp: warp;
 }
+
+.flat.selected {
+  border: 6px red dashed;
+}
