@@ -26,6 +26,10 @@
   },
   "dependencies": {
     "@babel/eslint-parser": "^7.23.3",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "google-map-react": "^2.2.1",
     "react": "16.2.0",
     "react-dom": "^16.4.2"
