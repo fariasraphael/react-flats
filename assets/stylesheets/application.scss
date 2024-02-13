@@ -40,10 +40,16 @@ body {
 
 
 .marker {
-  height: 20px;
-  width: 20px;
-  background-color: red;
   border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  border-radius: 50% 50% 50% 0;
+  position: absolute;
+  transform: rotate(-45deg);
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .flat-list {
